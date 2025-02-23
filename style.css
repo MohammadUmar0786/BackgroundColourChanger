@@ -32,16 +32,15 @@ body{
     background-color: blue;
 }
 
-button{
-    color: white;
-    padding: 10px;
-}
 
 button{
     width: 10vw;
     height: 8vh;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: 2vw;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
 }
 
 
